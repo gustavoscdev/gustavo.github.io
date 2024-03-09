@@ -70960,7 +70960,7 @@ A.FA.prototype={
 K(a){var s=null,r=A.dG(20),q=A.a([B.aw,B.cP],t.b)
 return A.nK(!1,s,!0,A.du(B.a4,A.fd(A.a([A.cU("Download CV",s,s,A.ao(a).p3.ax.LX(B.h,B.a8,1.2)),B.OU,B.G8],t.p),B.O,B.J,B.X),B.u,s,s,new A.cZ(s,s,s,r,B.lx,new A.hj(B.xw,B.xv,B.a3,q,s,s),B.ad),s,s,s,B.Fq,s,s,s),s,!0,s,s,s,s,s,s,s,s,s,new A.Y9(),s,s,s,s)}}
 A.Y9.prototype={
-$0(){A.pk(A.fm("assets/files/cv-gustavo-en.pdf",0,null))},
+$0(){A.pk(A.fm("https://raw.githubusercontent.com/gustavoscdev/gustavoscdev.github.io/master/assets/assets/files/cv-gustavo-en.pdf",0,null))},
 $S:0}
 A.o7.prototype={
 K(a){return new A.hM(new A.a2C(this),null)}}
